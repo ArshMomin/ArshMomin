@@ -44,5 +44,5 @@
 [myprofile]: https://github.com/ArshMomin
 [email]: arsh.momin2k@gmail.com
 [linkedIn]: https://pk.linkedin.com/in/arsh-momin-098a7b214
-[stackoverflow]: https://stackoverflow.com/users/8643967/arsh-momin
+-[stackoverflow]: https://stackoverflow.com/users/8643967/arsh-momin
 [twitter]: https://twitter.com/arsh-momin
